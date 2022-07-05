@@ -1,0 +1,18 @@
+
+<h2>User's Form</h2>
+
+<form #userForm="ngForm" (ngSubmit)="postUserData(userForm.value)">
+  <label for="firstName">Username:</label><br>
+  <input ngModel  type="text" id="firstName" name="firstName" ><br>
+  <label for="lastName">Last name:</label><br>
+  <input ngModel  type="text" id="lastName" name="lastName" value=""><br><br>
+  <button>Salvar</button>
+</form>
+
+<button routerLink="users">View all users</button>
+
+
+
+
+
+
