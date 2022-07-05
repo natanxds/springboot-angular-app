@@ -2,6 +2,9 @@
 # Spring Boot + Angular app
 
 Simple application to register users and view data through an interface.
+## Demo
+
+https://angular-ui-application.herokuapp.com/
 ## Run Locally
 
 Clone this project to yout computer 
