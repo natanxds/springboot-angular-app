@@ -1,0 +1,5 @@
+/home/natan/Pictures/springboot-angular-app/springboot-api/src/main/java/com/gsb/usersapi/UsersApiApplication.java
+/home/natan/Pictures/springboot-angular-app/springboot-api/src/main/java/com/gsb/usersapi/model/User.java
+/home/natan/Pictures/springboot-angular-app/springboot-api/src/main/java/com/gsb/usersapi/repository/UserRepository.java
+/home/natan/Pictures/springboot-angular-app/springboot-api/src/main/java/com/gsb/usersapi/service/UserService.java
+/home/natan/Pictures/springboot-angular-app/springboot-api/src/main/java/com/gsb/usersapi/controller/UserController.java

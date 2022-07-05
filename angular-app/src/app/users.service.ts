@@ -7,7 +7,7 @@ import { take, tap } from 'rxjs';
 })
 export class UsersService {
 
-  private readonly API = 'http://localhost:8080/api/v1/users'
+  private readonly API = 'https://user-angular-spring.herokuapp.com/api/v1/users'
 
   constructor(private http: HttpClient) { }
 

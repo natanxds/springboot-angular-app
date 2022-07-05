@@ -1,0 +1,5 @@
+com/gsb/usersapi/service/UserService.class
+com/gsb/usersapi/model/User.class
+com/gsb/usersapi/UsersApiApplication.class
+com/gsb/usersapi/controller/UserController.class
+com/gsb/usersapi/repository/UserRepository.class
